@@ -11,13 +11,13 @@ solution to become an invaluable asset to the company
 <br/>
 <h2 align="center">Tech Stack</h2>
 
-- **Plateforms :** **_Web, Desktop, <img src="https://www.gstatic.com/devrel-devsite/prod/v36e9b4a2fdc696650f09851e8c880b958655492821ded3455f80aaef87b6b52b/android/images/lockup.svg" width=70/>, Server_**
+- **Plateforms :** **_Web, Desktop, <img src="https://www.gstatic.com/devrel-devsite/prod/v36e9b4a2fdc696650f09851e8c880b958655492821ded3455f80aaef87b6b52b/android/images/lockup.svg" width=70/>
 - **Languages :** <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>, 
  <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>, 
  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>, 
- <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+ <img src="https://img.shields.io/badge/Kotlin%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 
-- **Frameworks :** <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />, <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>, <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>, <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>, <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" width=80/>
+- **Frameworks :** <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />, <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>, <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>, <!-- <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>, <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" width=80/> -->
 
 <!-- - **Databses :** <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/database/cloud_firestore.svg" width=100/>, <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/database/postgresql.svg" width=80/>, <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/database/oracle.svg" width=80/> -->
 
@@ -43,25 +43,25 @@ solution to become an invaluable asset to the company
 
   <a href="https://www.linkedin.com/in/upendrabajpai/">
     <img  alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/linkedin.svg"/>
-  &nbsp&nbsp&nbsp&nbsp
-  <!-- <a href="https://www.hackerrank.com/dev_akshat">
+  <!--&nbsp&nbsp&nbsp&nbsp
+   <a href="https://www.hackerrank.com/dev_akshat">
     <img  alt="HackerRank" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/hacker_rank.svg"/>
   </a> -->
   &nbsp&nbsp&nbsp&nbsp
   <a href="https://github.com/upendra-bajpai">
-    <img alt="GitHub" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/github.svg"/>
+    <img alt="GitHub" width="22px" target="_blank" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/github.svg"/>
   </a>
   &nbsp&nbsp&nbsp&nbsp
   <a href="https://www.instagram.com/bajpaiupendra">
-    <img  alt="Instagram" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/instagram.svg"/>
+    <img  alt="Instagram" width="22px" target="_blank" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/instagram.svg"/>
   </a>
   &nbsp&nbsp&nbsp&nbsp
   <a href="https://www.facebook.com/upendra.bajpai.90">
-    <img alt="Facebook" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/facebook.svg"/>
+    <img alt="Facebook" width="22px" target="_blank" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/facebook.svg"/>
   </a>
   &nbsp&nbsp&nbsp&nbsp
   <a href="https://twitter.com/bajpaiupendra">
-    <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/twitter.svg"/>
+    <img alt="Twitter" width="22px" target="_blank" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/twitter.svg"/>
   </a>
 
 </p>
