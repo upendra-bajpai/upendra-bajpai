@@ -38,7 +38,7 @@ solution to become an invaluable asset to the company
 </p>
 
 ### 👀 &nbsp;Wake Hours
-[![upendra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=upendra-bajpai)](https://github.com/anuraghazra/github-readme-stats)
+[![upendra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=op)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 
