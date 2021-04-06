@@ -32,10 +32,11 @@ solution to become an invaluable asset to the company
 
 <p align="left" markdown="1">
 <a href="https://github.com/upendra-bajpai">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=upendra-bajpai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>[![upendra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=upendra-bajpai)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=upendra-bajpai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=upendra-bajpai&layout=compact&langs_count=8&theme=algolia"/> -->
 </a>
 </p>
+[![upendra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=upendra-bajpai)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 
@@ -63,7 +64,7 @@ solution to become an invaluable asset to the company
   </a>
  &nbsp&nbsp&nbsp&nbsp
   <a href="https://geekypanda.ml">
-    <img alt="GeekyPanda" width="22px" target="_blank" src="https://raw.githubusercontent.com/upendra-bajpai/master/favicon.ico"/>
+    <img alt="GeekyPanda" width="22px" target="_blank" src="https://github.com/upendra-bajpai/upendra-bajpai/blob/master/favicon.ico"/>
   </a>
 
 </p>
