@@ -36,6 +36,8 @@ solution to become an invaluable asset to the company
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=upendra-bajpai&layout=compact&langs_count=8&theme=algolia"/> -->
 </a>
 </p>
+
+### 👀 &nbsp;Wake Hours
 [![upendra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=upendra-bajpai)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
