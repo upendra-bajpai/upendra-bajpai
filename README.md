@@ -32,8 +32,8 @@ solution to become an invaluable asset to the company
 
 <p align="left">
 <a href="https://github.com/upendra-bajpai">
-  <img height="180em"  align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=upendra-bajpai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime/?username=upendra-bajpai&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=upendra-bajpai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime/?username=upendra-bajpai&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
