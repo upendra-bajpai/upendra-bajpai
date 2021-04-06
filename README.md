@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there, it's Upendra Narayan!</h1>
 
 
-<img align="right" width="306px" src="https://github.com/upendra-bajpai/upendra-bajpai/blob/main/dev.gif" />
+<img align="right" width="306px" src="https://github.com/upendra-bajpai/upendra-bajpai/blob/master/dev.gif" />
 
 
 I'm **[Android  App Developer] 👨🏻‍💻 aspiring to become an Expert in the field of **Mobile App Development **. I’m also an **Open-Source** enthusiast with all of my projects open-sourced on [Github]. Seeking a challenging solution
