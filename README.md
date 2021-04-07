@@ -1,11 +1,10 @@
 <h1 align="center"> Hey there, it's Upendra Narayan!</h1>
 
 
-
 I'm **[Android App Developer]** 👨🏻‍💻 aspiring to become an Expert in the field of **Mobile App Development**. I’m also an **Open-Source** enthusiast with all of my projects open-sourced on [Github]. Seeking a challenging solution
 development position in Android App Development . Desire to dene and create the best possible
 solution to become an invaluable asset to the company
-<br/>
+<hr/>
 <img align="right" width="306px" src="https://github.com/upendra-bajpai/upendra-bajpai/blob/master/dev.gif" />
 <br/>
 <h2 align="center">Tech Stack</h2>
@@ -35,6 +34,8 @@ solution to become an invaluable asset to the company
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=upendra-bajpai&layout=compact&langs_count=8&theme=algolia"/> -->
 </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upendra-bajpai)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 👀 &nbsp;Wake Hours
 [![upendra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bajpaiupendra)](https://github.com/anuraghazra/github-readme-stats)
