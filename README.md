@@ -1,17 +1,16 @@
 <h1 align="center"> Hey there, it's Upendra Narayan!</h1>
 
 
-<img align="right" width="306px" src="https://github.com/upendra-bajpai/upendra-bajpai/blob/master/dev.gif" />
 
-
-I'm **[Android  App Developer] 👨🏻‍💻 aspiring to become an Expert in the field of **Mobile App Development **. I’m also an **Open-Source** enthusiast with all of my projects open-sourced on [Github]. Seeking a challenging solution
+I'm **[Android App Developer]** 👨🏻‍💻 aspiring to become an Expert in the field of **Mobile App Development**. I’m also an **Open-Source** enthusiast with all of my projects open-sourced on [Github]. Seeking a challenging solution
 development position in Android App Development . Desire to dene and create the best possible
 solution to become an invaluable asset to the company
 <br/>
+<img align="right" width="306px" src="https://github.com/upendra-bajpai/upendra-bajpai/blob/master/dev.gif" />
 <br/>
 <h2 align="center">Tech Stack</h2>
 
-- **Plateforms :** ** <img src="https://img.shields.io/badge/AI,ML%20-%2314354C.svg?&style=for-the-badge&logo=tensorflow&logoColor=orange"/> <img src="https://www.gstatic.com/devrel-devsite/prod/v36e9b4a2fdc696650f09851e8c880b958655492821ded3455f80aaef87b6b52b/android/images/lockup.svg" width=70/>
+- **Plateforms :** <img src="https://img.shields.io/badge/AI,ML%20-%2314354C.svg?&style=for-the-badge&logo=tensorflow&logoColor=orange"/> <img src="https://www.gstatic.com/devrel-devsite/prod/v36e9b4a2fdc696650f09851e8c880b958655492821ded3455f80aaef87b6b52b/android/images/lockup.svg" width=70/>
 - **Languages :** <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 	<img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/> 	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> 	<img src="https://img.shields.io/badge/Kotlin%20-%2300599C.svg?&style=for-the-badge&logo=kotlin%2B%2B&ogoColor=white"/>
 
 - **Frameworks :** <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />	<!-- <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> -->	<img src="https://img.shields.io/badge/Android%20-%23DD0031.svg?&style=for-the-badge&logo=android&logoColor=white"/>	<img src="https://img.shields.io/badge/Jekyll%20-%2320232a.svg?&style=for-the-badge&logo=jekyll&logoColor=%2361DAFB"/>
@@ -23,7 +22,7 @@ solution to become an invaluable asset to the company
 
 <hr/>
 
- ### 🛠 &nbsp;Top Languages
+### 🛠 &nbsp;Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upendra-bajpai&layout=compact&hide=Ruby)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -38,8 +37,10 @@ solution to become an invaluable asset to the company
 </p>
 
 ### 👀 &nbsp;Wake Hours
-[![upendra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=op)](https://github.com/anuraghazra/github-readme-stats)
+[![upendra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bajpaiupendra)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### 🐱‍🏍🐱‍🏍 &nbsp;Find Me
 <p align="center">
 
   <a href="https://www.linkedin.com/in/upendrabajpai/">
