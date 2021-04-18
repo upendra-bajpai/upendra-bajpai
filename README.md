@@ -35,11 +35,8 @@ solution to become an invaluable asset to the company
 </a>
 </p>
 
-### 👀 &nbsp;Wake Hours
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bajpaiupendra)](https://github.com/anuraghazra/github-readme-stats)
 
-
-### 🐱‍🏍🐱‍🏍 &nbsp;Find Me
+### 🐱‍🏍🐱‍🏍 &nbsp;Find Me on Social Media
 <p align="center">
 
   <a href="https://www.linkedin.com/in/upendrabajpai/">
