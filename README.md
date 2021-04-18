@@ -35,10 +35,8 @@ solution to become an invaluable asset to the company
 </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upendra-bajpai)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 👀 &nbsp;Wake Hours
-[![upendra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bajpaiupendra)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bajpaiupendra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 🐱‍🏍🐱‍🏍 &nbsp;Find Me
